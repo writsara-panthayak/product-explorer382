@@ -1,0 +1,217 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "price": 9.99,
+      "stock": 99,
+      "category": "beauty"
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "price": 19.99,
+      "stock": 34,
+      "category": "beauty"
+    },
+    {
+      "id": 3,
+      "title": "Powder Canister",
+      "price": 14.99,
+      "stock": 89,
+      "category": "beauty"
+    },
+    {
+      "id": 4,
+      "title": "Chanel Coco Noir Eau De",
+      "price": 129.99,
+      "stock": 58,
+      "category": "fragrances"
+    },
+    {
+      "id": 5,
+      "title": "Dior J'adore",
+      "price": 89.99,
+      "stock": 98,
+      "category": "fragrances"
+    },
+    {
+      "id": 6,
+      "title": "Annibale Colombo Bed",
+      "price": 1899.99,
+      "stock": 47,
+      "category": "furniture"
+    },
+    {
+      "id": 7,
+      "title": "Annibale Colombo Sofa",
+      "price": 2499.99,
+      "stock": 16,
+      "category": "furniture"
+    },
+    {
+      "id": 8,
+      "title": "Apple",
+      "price": 1.99,
+      "stock": 8,
+      "category": "groceries"
+    },
+    {
+      "id": 9,
+      "title": "Cooking Oil",
+      "price": 4.99,
+      "stock": 9,
+      "category": "groceries"
+    },
+    {
+      "id": 10,
+      "title": "Decoration Swing",
+      "price": 59.99,
+      "stock": 31,
+      "category": "home-decoration"
+    },
+    {
+      "id": 11,
+      "title": "Wooden Bathroom Vanity",
+      "price": 199.99,
+      "stock": 12,
+      "category": "home-decoration"
+    },
+    {
+      "id": 12,
+      "title": "Bamboo Spatula",
+      "price": 7.99,
+      "stock": 60,
+      "category": "kitchen-accessories"
+    },
+    {
+      "id": 13,
+      "title": "Cutting Board",
+      "price": 12.99,
+      "stock": 43,
+      "category": "kitchen-accessories"
+    },
+    {
+      "id": 14,
+      "title": "Apple MacBook Pro 14 Inch Space Grey",
+      "price": 1999.99,
+      "stock": 39,
+      "category": "laptops"
+    },
+    {
+      "id": 15,
+      "title": "Asus Zenbook Pro Dual Screen Laptop",
+      "price": 1799.99,
+      "stock": 22,
+      "category": "laptops"
+    },
+    {
+      "id": 16,
+      "title": "Blue & Black Check Shirt",
+      "price": 29.99,
+      "stock": 52,
+      "category": "mens-shirts"
+    },
+    {
+      "id": 17,
+      "title": "Nike Air Jordan 1 Red And Black",
+      "price": 149.99,
+      "stock": 19,
+      "category": "mens-shoes"
+    },
+    {
+      "id": 18,
+      "title": "Rolex Datejust",
+      "price": 9999.99,
+      "stock": 5,
+      "category": "mens-watches"
+    },
+    {
+      "id": 19,
+      "title": "Amazon Echo Plus",
+      "price": 99.99,
+      "stock": 68,
+      "category": "mobile-accessories"
+    },
+    {
+      "id": 20,
+      "title": "Chopper Bike",
+      "price": 1999.99,
+      "stock": 7,
+      "category": "motorcycle"
+    },
+    {
+      "id": 21,
+      "title": "Attitude Super Leaves Hand Soap",
+      "price": 8.99,
+      "stock": 68,
+      "category": "skin-care"
+    },
+    {
+      "id": 22,
+      "title": "iPhone 5s",
+      "price": 199.99,
+      "stock": 9,
+      "category": "smartphones"
+    },
+    {
+      "id": 23,
+      "title": "Basketball",
+      "price": 14.99,
+      "stock": 26,
+      "category": "sports-accessories"
+    },
+    {
+      "id": 24,
+      "title": "Black Sun Glasses",
+      "price": 39.99,
+      "stock": 27,
+      "category": "sunglasses"
+    },
+    {
+      "id": 25,
+      "title": "iPad Mini 2021 Starlight",
+      "price": 499.99,
+      "stock": 17,
+      "category": "tablets"
+    },
+    {
+      "id": 26,
+      "title": "Girl Summer Dress",
+      "price": 24.99,
+      "stock": 14,
+      "category": "tops"
+    },
+    {
+      "id": 27,
+      "title": "Charger SXT RWD",
+      "price": 32999.99,
+      "stock": 5,
+      "category": "vehicle"
+    },
+    {
+      "id": 28,
+      "title": "Blue Women's Handbag",
+      "price": 49.99,
+      "stock": 3,
+      "category": "womens-bags"
+    },
+    {
+      "id": 29,
+      "title": "Black Women's Gown",
+      "price": 129.99,
+      "stock": 50,
+      "category": "womens-dresses"
+    },
+    {
+      "id": 30,
+      "title": "Elegant Gold Earrings",
+      "price": 19.99,
+      "stock": 28,
+      "category": "womens-jewellery"
+    }
+  ],
+  "total": 30,
+  "skip": 0,
+  "limit": 30
+}

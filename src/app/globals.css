@@ -1,0 +1,100 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", "Noto Sans Thai", sans-serif;
+  line-height: 1.5;
+  color: #1a1a1a;
+  background: #fafafa;
+}
+
+main {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+
+form {
+  display: grid;
+  gap: 6px;
+  margin: 20px 0;
+  padding: 16px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+label {
+  font-weight: 600;
+  margin-top: 6px;
+}
+
+input,
+select {
+  padding: 8px;
+  font: inherit;
+  border: 1px solid #aaa;
+  border-radius: 6px;
+}
+
+/* ผูกสไตล์กับ aria-invalid ที่เราควบคุมเอง ไม่ใช้ :invalid */
+input[aria-invalid="true"],
+select[aria-invalid="true"] {
+  border-color: #c0392b;
+  background: #fdf1f0;
+}
+
+span[role="alert"] {
+  min-height: 1.2em;
+  color: #c0392b;
+  font-size: 0.875rem;
+}
+
+button {
+  padding: 8px 14px;
+  font: inherit;
+  cursor: pointer;
+  border: 1px solid #1f6f4a;
+  border-radius: 6px;
+  background: #1f6f4a;
+  color: #fff;
+  margin-right: 6px;
+}
+
+button[type="button"] {
+  background: #fff;
+  color: #1f6f4a;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+}
+
+th,
+td {
+  padding: 8px 10px;
+  text-align: left;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+th {
+  background: #eef5f0;
+}
+
+td button {
+  padding: 4px 10px;
+  font-size: 0.875rem;
+}
+
+section[aria-live] {
+  margin-top: 12px;
+}
